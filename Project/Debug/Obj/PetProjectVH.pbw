@@ -1,0 +1,86 @@
+[
+  {
+    "ID": "c:@SystemCoreClock",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SystemCoreClock",
+    "location": {
+      "column": "10",
+      "line": "131",
+      "path": "D:\\MyProject\\EmbeddedProject\\STM32_Alpha\\Platform\\stm32_libs\\CMSIS\\Device\\ST\\STM32F0xx\\Source\\Templates\\system_stm32f0xx.c"
+    },
+    "name": "SystemCoreClock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@uint8_t",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "uint8_t",
+    "location": {
+      "column": "5",
+      "line": "132",
+      "path": "D:\\MyProject\\EmbeddedProject\\STM32_Alpha\\Platform\\stm32_libs\\CMSIS\\Device\\ST\\STM32F0xx\\Source\\Templates\\system_stm32f0xx.c"
+    },
+    "name": "uint8_t",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32f0xx.c@F@SetSysClock",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SetSysClock(void)",
+    "location": {
+      "column": "13",
+      "line": "142",
+      "path": "D:\\MyProject\\EmbeddedProject\\STM32_Alpha\\Platform\\stm32_libs\\CMSIS\\Device\\ST\\STM32F0xx\\Source\\Templates\\system_stm32f0xx.c"
+    },
+    "name": "SetSysClock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemInit(void)",
+    "location": {
+      "column": "6",
+      "line": "159",
+      "path": "D:\\MyProject\\EmbeddedProject\\STM32_Alpha\\Platform\\stm32_libs\\CMSIS\\Device\\ST\\STM32F0xx\\Source\\Templates\\system_stm32f0xx.c"
+    },
+    "name": "SystemInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemCoreClockUpdate",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemCoreClockUpdate(void)",
+    "location": {
+      "column": "6",
+      "line": "232",
+      "path": "D:\\MyProject\\EmbeddedProject\\STM32_Alpha\\Platform\\stm32_libs\\CMSIS\\Device\\ST\\STM32F0xx\\Source\\Templates\\system_stm32f0xx.c"
+    },
+    "name": "SystemCoreClockUpdate",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32f0xx.c@F@SetSysClock",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SetSysClock(void)",
+    "location": {
+      "column": "13",
+      "line": "284",
+      "path": "D:\\MyProject\\EmbeddedProject\\STM32_Alpha\\Platform\\stm32_libs\\CMSIS\\Device\\ST\\STM32F0xx\\Source\\Templates\\system_stm32f0xx.c"
+    },
+    "name": "SetSysClock",
+    "origin": "project_file",
+    "scope": null
+  }
+]

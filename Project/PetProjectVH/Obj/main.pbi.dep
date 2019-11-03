@@ -1,0 +1,38 @@
+main.pbi: D:\MyProject\EmbeddedProject\STM32_Alpha\BootLoader\src\main.c \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include\core_cm0.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\CMSIS\Device\ST\STM32F0xx\Include/system_stm32f0xx.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_conf\inc\stm32f0xx_conf.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_can.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_cec.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_crc.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_crs.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_comp.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dac.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dbgmcu.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dma.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_exti.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_flash.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_syscfg.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_i2c.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_iwdg.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_pwr.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rtc.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_spi.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_tim.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_wwdg.h \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Project\..\Platform\stm32_libs\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h

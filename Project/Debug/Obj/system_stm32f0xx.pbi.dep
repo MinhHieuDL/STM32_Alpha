@@ -1,0 +1,2 @@
+system_stm32f0xx.pbi: \
+  D:\MyProject\EmbeddedProject\STM32_Alpha\Platform\stm32_libs\CMSIS\Device\ST\STM32F0xx\Source\Templates\system_stm32f0xx.c
